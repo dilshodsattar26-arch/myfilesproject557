@@ -1,0 +1,8 @@
+{
+    "name": "sysservice-service",
+    "version": "1.0.557",
+    "private": false,
+    "environment": "production",
+    "build_id": 519,
+    "allow_public_access": true
+}
